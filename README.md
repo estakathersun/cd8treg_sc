@@ -34,13 +34,13 @@ To determine CD8<sup>+</sup>Treg signatures, scRNA-seq data from donors aged 19 
 
 It should be noted that cells potentially corresponding to CD8<sup>+</sup>Treg **were not separated into a distinct cluster** using the Leiden algorithm but were distributed among CD8<sup>+</sup> effector T cells. Therefore, the CD8<sup>+</sup>Treg population was defined by their phenotype as CD8<sup>+</sup> effector T cells **with increased expression of *HLA-DRA*, *HLA-DRB1*, and *HLA-DRB5* genes and decreased expression of *IL7R* gene (CD127)**:
 
-<img width="1000" src="https://github.com/estakathersun/cd8treg_sc/assets/143891764/fc232221-1b7d-4005-8ff1-7c61187ddf28">
+<img width="800" src="https://github.com/estakathersun/cd8treg_sc/assets/143891764/fc232221-1b7d-4005-8ff1-7c61187ddf28">
 
 DEA at the single-cell level revealed that the CD8<sup>+</sup>Treg population, compared to the main population of CD8<sup>+</sup> effector T cells, exhibited **increased expression of genes associated with MHC-II-mediated antigen presentation, cytotoxicity, and cytoskeletal organization**. At the pseudobulk level, GSEA based on the GO terms also characterized the CD8<sup>+</sup>Treg population by increased expression of genes involved in antigen presentation, particularly those mediated by MHC class II molecules.
 
 The single-cell-level DEA and pseudobulk-level GSEA results are represent below respectively:
 
-<img width="500" align='top' src="https://github.com/estakathersun/cd8treg_sc/assets/143891764/c8e91f32-f3e8-4c97-8084-0bbf9591a506"><img width="500" align='top' src="https://github.com/estakathersun/cd8treg_sc/assets/143891764/1af99378-7c3e-4f2e-b56e-ed7095f96d25">
+<img width="400" align='top' src="https://github.com/estakathersun/cd8treg_sc/assets/143891764/c8e91f32-f3e8-4c97-8084-0bbf9591a506"><img width="400" align='top' src="https://github.com/estakathersun/cd8treg_sc/assets/143891764/1af99378-7c3e-4f2e-b56e-ed7095f96d25">
 <br/><br/>
 
 ### 2. Age-related changes in the CD8<sup>+</sup>Treg subset
