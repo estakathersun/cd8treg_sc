@@ -40,7 +40,9 @@ DEA at the single-cell level revealed that the CD8<sup>+</sup>Treg population, c
 
 The single-cell-level DEA and pseudobulk-level GSEA results are represent below respectively:
 
-<img width="400" align='top' src="https://github.com/estakathersun/cd8treg_sc/assets/143891764/c8e91f32-f3e8-4c97-8084-0bbf9591a506"><img width="400" align='top' src="https://github.com/estakathersun/cd8treg_sc/assets/143891764/1af99378-7c3e-4f2e-b56e-ed7095f96d25">
+<img width="400" align='top' src="https://github.com/user-attachments/assets/3b355067-7b70-41b2-bd98-8fec16ef3062"><img width="400" align='top' src="https://github.com/user-attachments/assets/786611a2-2858-47c2-a1b1-21fb2a6440a0">
+
+GO BP terms associated with antigen processing and presentation marked with green frame at GSEA dotplot.
 <br/><br/>
 
 ### 2. Age-related changes in the CD8<sup>+</sup>Treg subset
